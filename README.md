@@ -23,7 +23,8 @@ o	Normalize numerical data and encode categorical variables if needed.
 o	Use PivotTables to summarize the sales data by various dimensions such as product, region, and time period.
 o	Create PivotCharts to visualize the summarized data.
 o	Add slicers to the PivotTables and PivotCharts to allow users to filter the data interactively.
-##  <a href="https://github.com/LUJAINALALAWI/.-Data-Cleaning-Process-and-Dashboard-in-Excel-for-Bike-Sales/blob/main/Excel%20Project%20Dataset.DATA.xlsx">dataset used</a>
+## dataset
+<a href="https://github.com/LUJAINALALAWI/.-Data-Cleaning-Process-and-Dashboard-in-Excel-for-Bike-Sales/blob/main/Excel%20Project%20Dataset.DATA.xlsx">dataset used</a>
 # Dashboard
 ![dash bord for sales](https://github.com/user-attachments/assets/d2a77bcf-3687-4627-a242-bb90e1b883e5)
 
