@@ -1,6 +1,6 @@
 # Data-Cleaning-Process-and-Dashboard-in-Excel-for-Bike-Sales
 This project involves cleaning and preparing a dataset of bike sales for analysis, followed by creating an interactive dashboard in Excel to visualize the sales data. The goal is to transform raw sales data into a clean, structured format and then use Excel’s powerful visualization tools to create a comprehensive dashboard.
-## Implementation Details:
+## Implementation Details
 1.	Data Collection:
 o	Gather bike sales data from CSV files sources.
 o	Import the data into Excel.
@@ -27,7 +27,7 @@ o	Add slicers to the PivotTables and PivotCharts to allow users to filter the da
 # Dashboard
 ![dash bord for sales](https://github.com/user-attachments/assets/d2a77bcf-3687-4627-a242-bb90e1b883e5)
 
-## Benefits:
+## Benefits
 •	Improved Data Quality: Ensures the dataset is accurate, consistent, and reliable.
 •	Enhanced Analysis: Provides a clear and interactive way to analyze bike sales data.
 •	User-Friendly Interface: Easy-to-use dashboard that users with varying levels of technical expertise can explore.
